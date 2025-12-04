@@ -19,6 +19,7 @@ Either run the script from the current directory, or copy it to `/usr/local/bin`
 
 ```
 sudo cp ps2dump.sh /usr/local/bin/ps2dump
+sudo chmod +x /usr/local/bin/ps2dump
 ```
 
 ## Usage
