@@ -8,6 +8,8 @@ Optional but highly recommended, the resulting dumped game file can be compresse
 ## Requirements
 
 - `bash`
+- `awk`
+- `isosize`
 - `dd`
 - Optionally `chdman`
 
